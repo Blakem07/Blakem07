@@ -6,7 +6,9 @@ Developer
 
 My journey into development began with JavaScript, where I quickly realized my passion for creating digital experiences.
 
-When I'm not immersed in code, you'll often find me reading, training, or enjoying a peaceful walk in nature. I'm excited to keep growing, tackling new challenges, and advancing my skills in web development!
+When I'm not immersed in code, you'll often find me reading, training, or enjoying a peaceful walk in nature.
+
+I'm excited to keep growing, tackling new challenges, and advancing my skills in web development!
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [My Website](http://blakem07.github.io/homepage/)

@@ -1,8 +1,5 @@
-Hi, My name is Blake
+Blake. Software Developer
 ======================
-
-Developer
----------
 
 My work focuses on JavaScript and building structured, maintainable web systems with real-world constraints.
 

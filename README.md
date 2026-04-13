@@ -6,7 +6,7 @@ My work focuses on JavaScript and building structured, maintainable web systems 
 I prioritize clear architecture, correctness, and long-term maintainability.
 
 * Based in the United Kingdom
-* Portfolio available at [My Website]([http://blakem07.github.io/homepage/](https://blake-milne-software-developer.vercel.app/))
+* Portfolio available at [My Website](https://blake-milne-software-developer.vercel.app/)
 * Developing a bespoke inventory management system for a Southeast Asian business
 
 <p align="left">

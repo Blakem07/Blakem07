@@ -1,9 +1,7 @@
 Blake. Software Developer
 ======================
 
-My work focuses on JavaScript and building structured, maintainable web systems with real-world constraints.
-
-I prioritize clear architecture, correctness, and long-term maintainability.
+I build structured, maintainable web systems across the front end and back end, with a focus on clear architecture, correctness, and long term maintainability.
 
 * Based in the United Kingdom
 * Portfolio available at [My Website](https://blake-milne-software-developer.vercel.app/)
